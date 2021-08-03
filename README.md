@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ![nex3z's GitHub stats](https://github-readme-stats.vercel.app/api?username=nex3z&theme=default&show_icons=true&custom_title=nex3z%27s%20GitHub%20Stats&hide=contribs,issues)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nex3z&layout=compact&hide=jupyter%20notebook,html,c&langs_count=6)
