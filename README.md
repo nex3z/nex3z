@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![nex3z's GitHub stats](https://github-readme-stats.vercel.app/api?username=nex3z&theme=default&show_icons=true&custom_title=nex3z%27s%20GitHub%20Stats&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nex3z&layout=compact&hide=jupyter%20notebook,html,c&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nex3z&theme=default&show_icons=true&custom_title=nex3z%27s%20GitHub%20Stats&hide=contribs,issues" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nex3z&layout=compact&hide=jupyter%20notebook,html,c&langs_count=6" />
+</a>
